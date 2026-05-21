@@ -30,6 +30,6 @@ if ( ! password_verify($password, $hashedPassword)) {
 
 $_SESSION['loggedIn'] = TRUE;
 $_SESSION['userId'] = $user['id'];
-header('Location: members.php');
+header('Location: homepage.php');
 
 ?>
