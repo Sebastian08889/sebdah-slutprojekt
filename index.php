@@ -1,9 +1,9 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <title>Welcome to PHPSandbox</title>
-    <link rel="icon" href="https://phpsandbox.io/assets/img/brand/phpsandbox.png">
- </head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sebastian slutprojekt</title>
 
 <style>
 
@@ -57,7 +57,7 @@ body {
 
 
 </style>
-
+</head>
 
 <body class="page2">
 
