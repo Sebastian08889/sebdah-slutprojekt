@@ -1,4 +1,24 @@
-body {
-    display: flex;
-    justify-content: center;
-  }
+h1 {
+   text-align: center;
+
+    color: rgb(26, 202, 143);
+    font-size: 52px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+
+    text-align: center;
+
+
+}
+
+a {
+    margin-left: 50px;
+    color: rgb(26, 202, 143);
+    font-size: 32px;
+}
