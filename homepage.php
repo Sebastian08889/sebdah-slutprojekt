@@ -9,9 +9,9 @@
     <h2>Välkommen till min hemsida!</h2>
     </head>
 <body>
-<a href="andra.php" class="link1">Klicka här!</a>
 
-<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" alt="Träd" width="500" height="600" title="Träd">
+<img src="https://images.wagwalkingweb.com/media/daily_wag/blog_articles/hero/1659721376.847793/fun-facts-about-black-cats.png" alt="Black cat" width="500" height="600" title="Black cat">
+<a href="andra.php" class="link1">Klicka här!</a>
 
 </body>
 </html>
