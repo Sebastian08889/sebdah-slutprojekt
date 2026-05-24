@@ -11,7 +11,18 @@
 <body>
 
 <img src="https://images.wagwalkingweb.com/media/daily_wag/blog_articles/hero/1659721376.847793/fun-facts-about-black-cats.png" alt="Black cat" width="500" height="600" title="Black cat">
-<a href="andra.php" class="link1">Klicka här!</a>
+
+<p>Detta är en katt.</p>
+    <a href="andra.php" class="link1">Klicka här för mer info om katter.</a>
+
+<div class="mittenbox">
+  <p>Det här är en box.</p>
+</div>
+
+<div class="bottenbox">
+  <p>Kontakta oss här >> 073-123 45 67</p>
+</div>
+
 
 </body>
 </html>
