@@ -17,11 +17,11 @@ form {
     
     width: 400px;
     height: 300px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(223, 223, 223, 0.47);
     border: 1px solid black;
     padding: 10px;
 
-    margin: 0 auto;
+    margin: 200px auto;
     border-radius: 15px;
     font-family: fantasy;
 
@@ -49,11 +49,11 @@ h2 {
 }
 
 body {
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
 
 
 </style>
